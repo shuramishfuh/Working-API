@@ -1,0 +1,17 @@
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Control.deps.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Control.runtimeconfig.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Control.runtimeconfig.dev.json
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Control.dll
+C:\Users\Ramish\Desktop\SummerAcademy\Control\bin\Debug\netcoreapp2.2\Control.pdb
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.csprojAssemblyReference.cache
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.csproj.CoreCompileInputs.cache
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.RazorAssemblyInfo.cache
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.RazorAssemblyInfo.cs
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.AssemblyInfoInputs.cache
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.AssemblyInfo.cs
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.RazorTargetAssemblyInfo.cache
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.dll
+C:\Users\Ramish\Desktop\SummerAcademy\Control\obj\Debug\netcoreapp2.2\Control.pdb
